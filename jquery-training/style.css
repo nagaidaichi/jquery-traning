@@ -1,0 +1,55 @@
+.aaa {
+  color:#F00;
+}
+.button {
+  padding: 5px 10px;
+  border:#666 solid 1px;
+  background:#FFF;
+  display:block;
+  width:100px;
+  text-align:center;
+  cursor:pointer;
+}
+.bbb {
+  font-weight:900;
+  font-size:24px;
+  color:#00F;
+}
+#q17 {
+  width:100px;
+  height:20px;
+  background:#333;
+  color:#FFF;
+  padding:5px;
+}
+.ccc {
+  padding:10px;
+  border:#000 2px solid;
+}
+.ddd {
+  opacity:0.5;
+  background:#F0F;
+      cursor:pointer;
+}
+.q24_a {
+  text-decoration:underline;
+  color:#00F;
+}
+.q27_b{
+  text-decoration:underline;
+  color:#00F;
+}
+#q29 {
+  background:rgb(235, 234, 234);
+  width:100px;
+  height:100px;
+}
+.button {
+  padding: 5px 10px;
+  border:#666 solid 1px;
+  background:#FFF;
+  display:block;
+  width:100px;
+  text-align:center;
+  cursor:pointer;
+}
